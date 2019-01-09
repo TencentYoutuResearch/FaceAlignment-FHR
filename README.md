@@ -13,7 +13,7 @@ If you find this work useful in your research, please consider citing (* indicat
 
 ### Demo
 <p align='center'>
-  <img src='imgs/demo.gif' width='1000'/>
+  <img src='imgs/demo.gif' width='1280'/>
 </p>
 
 ## Prerequisites
